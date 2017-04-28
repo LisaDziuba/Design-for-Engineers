@@ -8,3 +8,4 @@
 ### Funny Design Artilces
 * [24 Ways to Look Like an Awesome UX Designer](https://uxplanet.org/24-ways-to-look-like-an-awesome-ux-designer-c26addab6add), by Guy Ligertwood
 * [How to pretend you’re a great designer](https://thedesignteam.io/how-to-pretend-youre-a-great-designer-3625de90d79f), by Pablo Stanley
+* [100 Excuses for Designers](https://medium.com/ux-power-tools/100-excuses-for-designers-517344cdd910), by Jon Moore
